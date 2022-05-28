@@ -19,8 +19,8 @@ Servo servo;
 
 
 // Update these with values suitable for your network.
-const char* ssid = "ESCRITORIO 01_2.4";
-const char* password = "12345678@";
+const char* ssid = "nomeNet";
+const char* password = "senha";
 const char* mqtt_server = "98bc90b790b94f178b398ff372bc57a9.s2.eu.hivemq.cloud";
 
 // A single, global CertStore which can be used by all connections.
